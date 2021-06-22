@@ -3,7 +3,8 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Blase
   layers:
   - Default
   - TransparentFX
@@ -40,4 +41,16 @@ TagManager:
   m_SortingLayers:
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: Blase4
+    uniqueID: 4123574725
+    locked: 0
+  - name: Blase3
+    uniqueID: 2603153843
+    locked: 0
+  - name: Blase2
+    uniqueID: 2766922163
+    locked: 0
+  - name: Blase1
+    uniqueID: 1357812033
     locked: 0
